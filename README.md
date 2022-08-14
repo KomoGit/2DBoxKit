@@ -10,10 +10,13 @@
 - Dynamic Audio Manager,
 - Physics Grab systemt to allow players to interact with physics objects,
 - Triggers for cutscenes,events,
-- ....and more!
+- _....and more_!
 
 ## Note:
 If you think the repository contains a code that you have made please let me know so I can credit you. Certain codes could have been taken from tutorials and I don't correctly remember which ones.
+
+## Future Plans:
+Although it is unlikely that I will come back to this project if I get inspired I will most likely add new functions to it. In case of bugs, I will do my best to fix them.
 
 ## CONTACT :
 Discord : FlyinDude#9583
